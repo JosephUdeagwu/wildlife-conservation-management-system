@@ -1,6 +1,6 @@
-# Clyde Conservation System
+# Wildlife Conservation Management System
 
-A C# console application developed as part of a university assessment. The system allows users to manage mammals and reptiles within a conservation centre, calculate insurance costs based on danger ratings, and allocate cages to keepers.
+A C# console application developed as part of a university assessment. The system allows users to manage mammals and reptiles within a conservation centre, calculate insurance costs based on the animals danger ratings, and allocate cages to keepers.
 
 ## Features
 
@@ -11,7 +11,6 @@ A C# console application developed as part of a university assessment. The syste
 * Allocate cages to keepers
 * Display cage availability
 * Input validation and exception handling
-* Object-oriented design using inheritance, encapsulation, and method overriding
 
 ## Technologies Used
 
@@ -29,4 +28,3 @@ A C# console application developed as part of a university assessment. The syste
 * Arrays
 * Exception Handling
 * User Input Validation
-A C# console application for managing mammals, reptiles, keepers, and cage allocations within a conservation facility using object-oriented programming principles.
